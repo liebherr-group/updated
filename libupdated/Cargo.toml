@@ -1,0 +1,77 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: <text>
+# Copyright(c) 2026 Liebherr-Digital Development Center GmbH
+# Written by Thomas Witte <thomas.witte@liebherr.com>
+# </text>
+
+[package]
+name = "libupdated"
+version = "1.0.0"
+edition = "2024"
+rust-version = "1.92.0"
+build = "build.rs"
+description = "Updated SOTA Updater"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[features]
+hawkbit = ["dep:hawkbit"]
+mqtt = ["dep:rumqttc"]
+swupdate = ["uboot"]
+uboot = []
+systemd = ["dep:sd-notify"]
+cli = ["dep:clap"]
+
+[[test]]
+name = "download"
+required-features = []
+
+[[test]]
+name = "swupdate"
+required-features = ["swupdate"]
+
+[[test]]
+name = "hawkbit"
+required-features = ["hawkbit"]
+
+[[test]]
+name = "mqtt_consent"
+required-features = ["mqtt"]
+
+[[test]]
+name = "uboot"
+required-features = ["uboot"]
+
+[dependencies]
+hawkbit = { version = "0.7.1", default-features = false, features = ["hash-sha256"], optional = true }
+serde = { version = "1.0.228", default-features = false, features = ["derive"] }
+serde_json = { version = "1.0.128", default-features = false, features = ["std"] }
+thiserror = { version = "2.0.17", default-features = false }
+tracing = { version = "0.1.40", default-features = false }
+tokio = { version = "1.35.1", default-features = false, features = ["process", "macros", "time", "fs", "rt", "signal", "io-util"] }
+inventory = { version = "0.3.15", default-features = false }
+futures = { version = "0.3.31", default-features = false, features = ["alloc"] }
+libupdated-macros = { version = "1.0.0", path = "../libupdated-macros" }
+rumqttc = { version = "0.25.1", default-features = false, optional = true }
+rand = { version = "0.10.0", default-features = false, features = ["thread_rng"] }
+bytes = { version = "1.11.0", default-features = false }
+lazy_static = { version = "1.5.0", default-features = false }
+regex = { version = "1.11.1", default-features = false }
+async-trait = { version = "0.1.83", default-features = false }
+dotenvy = { version = "0.15.7", default-features = false }
+sd-notify = { version = "0.4.3", default-features = false, optional = true }
+tokio-util = { version = "0.7.10", default-features = false, features = ["io"] }
+clap = { version = "4.5.53", default-features = false, features = ["std", "cargo", "derive"], optional = true }
+sha2 = { version = "0.11.0", default-features = false, features = ["alloc"] }
+hex = { version = "0.4.3", default-features = false }
+reqwest = { version = "0.13.4", default-features = false, features = ["stream", "rustls"] }
+
+[dev-dependencies]
+config = "0.15.19"
+rumqttd = "0.20.0"
+hawkbit_mock = "0.7.0"
+
+[build-dependencies]
+anyhow = "1.0.79"
+vergen = { version = "8.3.1", features = ["build", "git", "gitcl", "rustc", "cargo", "si"] }

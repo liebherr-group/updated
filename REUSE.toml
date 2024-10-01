@@ -1,0 +1,42 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: <text>
+# Copyright(c) 2026 Liebherr-Digital Development Center GmbH
+# Written by Thomas Witte <thomas.witte@liebherr.com>
+# </text>
+
+version = 1
+
+[[annotations]]
+path = "Cargo.lock"
+SPDX-FileCopyrightText = "Copyright(c) 2026 Liebherr-Digital Development Center GmbH"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = "**/renovate.json"
+SPDX-FileCopyrightText = "Copyright(c) 2026 Liebherr-Digital Development Center GmbH"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = ".gitmessage"
+SPDX-FileCopyrightText = "Copyright(c) 2026 Liebherr-Digital Development Center GmbH"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "doc/**/*.md"
+SPDX-FileCopyrightText = "Copyright(c) 2026 Liebherr-Digital Development Center GmbH"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "doc/**/*.svg"
+SPDX-FileCopyrightText = "Copyright(c) 2026 Liebherr-Digital Development Center GmbH"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ".github/**/*.yaml"
+SPDX-FileCopyrightText = "Copyright(c) 2026 Liebherr-Digital Development Center GmbH"
+SPDX-License-Identifier = "MIT"
+
+[[annotations]]
+path = "qa/**/*.env"
+SPDX-FileCopyrightText = "Copyright(c) 2026 Liebherr-Digital Development Center GmbH"
+SPDX-License-Identifier = "MIT"

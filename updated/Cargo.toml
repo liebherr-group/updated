@@ -1,0 +1,32 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: <text>
+# Copyright(c) 2026 Liebherr-Digital Development Center GmbH
+# Written by Thomas Witte <thomas.witte@liebherr.com>
+# </text>
+
+[package]
+name = "updated"
+version = "1.0.0"
+edition = "2024"
+description = "Updated SOTA Updater"
+rust-version = "1.92.0"
+repository = "https://github.com/liebherr-group/updated"
+license = "MIT"
+
+[lib]
+name = "updated_example"
+path = "src/lib.rs"
+
+[[bin]]
+name = "updated"
+path = "src/main.rs"
+
+[features]
+default = ["example_workflow"]
+example_workflow = []
+
+[dependencies]
+tokio = { version = "1.35.1", default-features = false, features = ["macros", "rt-multi-thread"] }
+tracing = { version = "0.1.40", default-features = false }
+tracing-subscriber = { version = "0.3.18", default-features = false, features = ["fmt"] }
+libupdated = { version = "1.0.0", path = "../libupdated/", features = ["systemd", "cli"] }

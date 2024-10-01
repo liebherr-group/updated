@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: <text>
+# Copyright(c) 2026 Liebherr-Digital Development Center GmbH
+# Written by Thomas Witte <thomas.witte@liebherr.com>
+# </text>
+
+[toolchain]
+channel = "1.92.0"
+profile = "default"
+targets = ["armv7-unknown-linux-gnueabihf"]
+components = ["rustfmt", "clippy", "rust-analyzer", "llvm-tools-preview"]

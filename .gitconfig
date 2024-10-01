@@ -1,0 +1,8 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: <text>
+# Copyright(c) 2026 Liebherr-Digital Development Center GmbH
+# Written by Thomas Witte <thomas.witte@liebherr.com>
+# </text>
+
+[commit]
+  template = .gitmessage

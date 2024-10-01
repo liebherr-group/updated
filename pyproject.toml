@@ -1,0 +1,51 @@
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: <text>
+# Copyright(c) 2026 Liebherr-Digital Development Center GmbH
+# Written by Thomas Witte <thomas.witte@liebherr.com>
+# </text>
+
+[project]
+name = "qa"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "pytest==9.1.1",
+    "sh==2.4.0"
+]
+[project.optional-dependencies]
+tools = [
+    "ruff==0.16.8",
+    "pre-commit==4.6.2;python_version >= '3.10'"
+]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = [
+    "-q",
+    "-ra",
+    "--showlocals",
+    "--strict-markers",
+    "--strict-config"
+]
+testpaths = [
+    "qa/tests"
+]
+filterwarnings = [
+    "error::DeprecationWarning"
+]
+markers = [
+    "no_cross: not supported with cross toolchain"
+]
+
+norecursedirs = [
+    "cli"
+]
+
+[tool.setuptools]
+py-modules = []
+
+[tool.ruff]
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "B", "W"]

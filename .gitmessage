@@ -1,0 +1,32 @@
+<type>(<component>): <brief-summary>
+
+# <type>(<component>): <brief-summary>
+# ------ -------   ---------------
+#   |      |              |
+#   |      |              Present tense, lower case. No period at the end.
+#   |      |
+#   |      Component: libupdated|updated|updated-lpo|…
+#   |
+#   Type: feat|fix|doc|perf|refactor|style|test|ci|build|revert|chore
+#
+# An optional footer may contain Jira ticket id and/or GitHub Issue/PR.
+#
+# Issue: LDCCDPS-3652
+# Close: #11
+#
+### Example: New Feature
+#
+# feat(agent): integrate doip crate for routing activation
+#
+# Issue: LDCCDPS-1234
+#
+### Example: Documentation change
+#
+# docs(uda): add more rustdoc
+#
+# Issue: LDCCDPS-1235
+#
+### Example: Fix issue
+# fix(doip): deal with failed connection
+#
+# Issue: LDCCDPS-1236

@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188.98375mm"
+   height="143.78275mm"
+   viewBox="0 0 188.98375 143.78274"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="updated.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4427039"
+     inkscape:cx="369.87701"
+     inkscape:cy="307.03681"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-3"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-3-0"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-4"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-6"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-49"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-2"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-66" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-2-4"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-66-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-7"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-5"
+       refX="6"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-203.16553,-28.983369)">
+    <rect
+       style="fill:#b3b3b3;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       id="rect5035"
+       width="90.574501"
+       height="27.38028"
+       x="203.16553"
+       y="127.27169"
+       ry="0" />
+    <g
+       id="g479-3"
+       transform="translate(255.16609,123.16063)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.499999"
+         id="rect111-62-67"
+         width="24.192667"
+         height="10.234447"
+         x="49.263618"
+         y="39.121044" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+         x="61.128178"
+         y="43.276241"
+         id="text167-9-53"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+           x="61.128178"
+           y="43.276241"
+           id="tspan469-6">updated</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+           x="61.128178"
+           y="47.244991"
+           id="tspan1557">system service</tspan></text>
+    </g>
+    <g
+       id="g479-2"
+       transform="translate(255.16609,85.356577)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.499999"
+         id="rect111-62-91"
+         width="24.192667"
+         height="10.234447"
+         x="49.263618"
+         y="39.121044" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+         x="61.128178"
+         y="43.276241"
+         id="text167-9-27"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+           x="61.128178"
+           y="43.276241"
+           id="tspan469-3">update_</tspan><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+           x="61.128178"
+           y="47.244991"
+           id="tspan1561">workflow</tspan></text>
+    </g>
+    <g
+       id="g2637"
+       transform="translate(0.13334953,-2.8930727)">
+      <g
+         id="g1854-2"
+         transform="translate(-3.2056951,94.263361)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-8-0"
+           width="24.192667"
+           height="10.234447"
+           x="246.93797"
+           y="-4.6967301" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="258.80255"
+           y="1.3094933"
+           id="text167-9-53-7-6"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="258.80255"
+             y="1.3094933"
+             id="tspan1557-2-1">Hawkbit</tspan></text>
+      </g>
+      <g
+         id="g1862-5"
+         transform="translate(-11.595697,95.580481)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-2-5"
+           width="24.192667"
+           height="10.234447"
+           x="285.61002"
+           y="-6.0138407" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="297.47458"
+           y="0.23527031"
+           id="text167-9-53-3-4"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="297.47458"
+             y="0.23527031"
+             id="tspan1557-5-7">MqttConsent</tspan></text>
+      </g>
+      <g
+         id="g1870-6"
+         transform="translate(-18.105832,94.242461)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-22-5"
+           width="24.192667"
+           height="10.234447"
+           x="322.40219"
+           y="-4.6758242" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="334.26675"
+           y="1.5780493"
+           id="text167-9-53-8-6"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="334.26675"
+             y="1.5780493"
+             id="tspan1557-3-9">SWUpdate</tspan></text>
+      </g>
+      <g
+         id="g1878-3"
+         transform="translate(4.0547759,92.896501)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-1-7"
+           width="24.192667"
+           height="10.234447"
+           x="360.80566"
+           y="-3.329869" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="372.67023"
+           y="2.9208293"
+           id="text167-9-53-2-4"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="372.67023"
+             y="2.9208293"
+             id="tspan1557-1-5">FileStore</tspan></text>
+      </g>
+      <g
+         id="g2544"
+         transform="translate(0,-1.9526274)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-7-5"
+           width="24.192667"
+           height="10.234447"
+           x="334.5784"
+           y="91.519264" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="346.44296"
+           y="96.051231"
+           id="text167-9-53-84-4"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="346.44296"
+             y="96.051231"
+             id="tspan1557-0-7">HawkbitProgress,</tspan><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="346.44296"
+             y="100.01998"
+             id="tspan2534">LogReporter</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2572"
+       transform="translate(-5.9623003,22.225008)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.499999"
+         id="rect111-62-91-0"
+         width="150.74646"
+         height="29.870583"
+         x="247.11511"
+         y="7.0083609" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+         x="265.59714"
+         y="11.202301"
+         id="text167-9-27-6"><tspan
+           sodipodi:role="line"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+           x="265.59714"
+           y="11.202301"
+           id="tspan1616">update_with_consent_flow</tspan></text>
+      <g
+         id="g1854"
+         transform="translate(2.889958,27.365062)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-8"
+           width="24.192667"
+           height="10.234447"
+           x="246.93797"
+           y="-4.6967301" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="258.80255"
+           y="1.3094933"
+           id="text167-9-53-7"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="258.80255"
+             y="1.3094933"
+             id="tspan1557-2">UpdateSource</tspan></text>
+      </g>
+      <g
+         id="g1862"
+         transform="translate(-5.500044,28.682172)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-2"
+           width="24.192667"
+           height="10.234447"
+           x="285.61002"
+           y="-6.0138407" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="297.47458"
+           y="0.23527031"
+           id="text167-9-53-3"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="297.47458"
+             y="0.23527031"
+             id="tspan1557-5">ConsentHandler</tspan></text>
+      </g>
+      <g
+         id="g1870"
+         transform="translate(-12.010179,27.344152)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-22"
+           width="24.192667"
+           height="10.234447"
+           x="322.40219"
+           y="-4.6758242" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="334.26675"
+           y="1.5780493"
+           id="text167-9-53-8"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="334.26675"
+             y="1.5780493"
+             id="tspan1557-3">Installer</tspan></text>
+      </g>
+      <g
+         id="g1878"
+         transform="translate(10.150429,25.998202)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-1"
+           width="24.192667"
+           height="10.234447"
+           x="360.80566"
+           y="-3.329869" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="372.67023"
+           y="2.9208293"
+           id="text167-9-53-2"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="372.67023"
+             y="2.9208293"
+             id="tspan1557-1">PersistentStore</tspan></text>
+      </g>
+      <g
+         id="g1886"
+         transform="translate(38.68211,11.469464)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.499999"
+           id="rect111-62-67-7"
+           width="24.192667"
+           height="10.234447"
+           x="301.99194"
+           y="11.198868" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+           x="313.85651"
+           y="17.154291"
+           id="text167-9-53-84"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+             x="313.85651"
+             y="17.154291"
+             id="tspan1557-0">ProgressReporter</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;marker-end:url(#Arrow2)"
+         d="m 261.92427,22.491117 c 6.70963,-7.2026 22.00379,-7.2026 30.28204,0"
+         id="path1964"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;marker-end:url(#Arrow2-3)"
+         d="m 292.615,22.491117 c 6.70963,-7.2026 22.00379,-7.2026 30.28204,0"
+         id="path1964-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;marker-end:url(#Arrow2-3-0)"
+         d="m 322.49776,22.491117 c 6.70963,-7.2026 22.00379,-7.2026 30.28204,0"
+         id="path1964-1-3"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g2744">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#Arrow2)"
+         d="M 255.96196,86.673558 V 55.127785"
+         id="path2639" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+         x="-71.932617"
+         y="254.05887"
+         id="text2737"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan2735"
+           style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.5"
+           x="-71.932617"
+           y="254.05887">implements</tspan></text>
+    </g>
+    <g
+       id="g2744-3"
+       transform="translate(30.282037)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#Arrow2-4)"
+         d="M 255.96196,86.673558 V 55.127785"
+         id="path2639-0" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+         x="-71.932617"
+         y="254.05887"
+         id="text2737-7"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan2735-8"
+           style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.5"
+           x="-71.932617"
+           y="254.05887">implements</tspan></text>
+    </g>
+    <g
+       id="g2744-8"
+       transform="translate(60.564077)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#Arrow2-6)"
+         d="M 255.96196,86.673558 V 55.127785"
+         id="path2639-4" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+         x="-71.932617"
+         y="254.05887"
+         id="text2737-3"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan2735-1"
+           style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.5"
+           x="-71.932617"
+           y="254.05887">implements</tspan></text>
+    </g>
+    <g
+       id="g2744-0"
+       transform="translate(90.846118)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#Arrow2-49)"
+         d="M 255.96196,86.673558 V 55.127785"
+         id="path2639-6" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+         x="-71.932617"
+         y="254.05887"
+         id="text2737-8"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan2735-9"
+           style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.5"
+           x="-71.932617"
+           y="254.05887">implements</tspan></text>
+    </g>
+    <g
+       id="g2744-4"
+       transform="translate(121.12816)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#Arrow2-2)"
+         d="M 255.96196,86.673558 V 55.127785"
+         id="path2639-9" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+         x="-71.932617"
+         y="254.05887"
+         id="text2737-5"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan2735-0"
+           style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.5"
+           x="-71.932617"
+           y="254.05887">implements</tspan></text>
+    </g>
+    <g
+       id="g4547">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#Arrow2-2-4)"
+         d="m 316.52604,162.55367 v -27.8416"
+         id="path2639-9-1"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+         x="-148.59439"
+         y="314.62296"
+         id="text2737-5-7"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan2735-0-2"
+           style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.5"
+           x="-148.59439"
+           y="314.62296">runs</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#Arrow2)"
+       d="M 316.52603,124.47762 V 96.908009"
+       id="path3394" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow2);marker-end:url(#Arrow2)"
+       d="m 255.96196,96.908003 0.10356,13.153337 h 120.83729 l 0.1873,-13.153337"
+       id="path3534"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow2)"
+       d="m 286.24399,96.908014 -0.16827,13.709796"
+       id="path3818" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow2)"
+       d="m 346.80807,96.908006 -0.20635,13.709804"
+       id="path4100" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       x="324.87506"
+       y="117.79427"
+       id="text4242"><tspan
+         sodipodi:role="line"
+         id="tspan4240"
+         style="fill:#000000;stroke:none;stroke-width:0.5"
+         x="324.87506"
+         y="117.79427">instatiates</tspan></text>
+    <g
+       id="g5055">
+      <g
+         id="g4981">
+        <g
+           id="g4807"
+           transform="translate(6.654124,22.754452)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:0.499999"
+             id="rect111-62-91-2"
+             width="24.192667"
+             height="10.234447"
+             x="199.42027"
+             y="108.50814" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+             x="211.28484"
+             y="112.66334"
+             id="text167-9-27-2"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+               x="211.28484"
+               y="112.66334"
+               id="tspan1561-1">Hawkbit</tspan><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+               x="211.28484"
+               y="116.63209"
+               id="tspan4726">Server</tspan></text>
+        </g>
+        <g
+           id="g479-2-0"
+           transform="translate(217.37486,92.141555)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:0.499999"
+             id="rect111-62-91-6"
+             width="24.192667"
+             height="10.234447"
+             x="49.263618"
+             y="39.121044" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+             x="61.128178"
+             y="43.276241"
+             id="text167-9-27-1"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+               x="61.128178"
+               y="43.276241"
+               id="tspan1561-9">swupdate-</tspan><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+               x="61.128178"
+               y="47.244991"
+               id="tspan4759">client</tspan></text>
+        </g>
+        <g
+           id="g479-2-4"
+           transform="translate(187.09281,92.141558)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:0.499999"
+             id="rect111-62-91-9"
+             width="24.192667"
+             height="10.234447"
+             x="49.263618"
+             y="39.121044" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999"
+             x="61.128178"
+             y="43.276241"
+             id="text167-9-27-0"><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+               x="61.128178"
+               y="43.276241"
+               id="tspan1561-17">Codesys</tspan><tspan
+               sodipodi:role="line"
+               style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.5"
+               x="61.128178"
+               y="47.244991"
+               id="tspan4792">Application</tspan></text>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+         x="248.3988"
+         y="150.33322"
+         id="text4964"><tspan
+           sodipodi:role="line"
+           id="tspan4962"
+           style="stroke-width:0.5"
+           x="248.3988"
+           y="150.33322">External Programs/Interfaces</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow2);marker-end:url(#Arrow2)"
+       d="M 249.76075,96.908003 218.17073,131.26259"
+       id="path5111" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow2-7);marker-end:url(#Arrow2-7)"
+       d="M 280.04278,96.908022 248.45276,131.2626"
+       id="path5111-1" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-start:url(#Arrow2-5);marker-end:url(#Arrow2-5)"
+       d="M 311.91836,96.90802 280.32834,131.2626"
+       id="path5111-7" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       x="223.00784"
+       y="120.57671"
+       id="text5793"><tspan
+         sodipodi:role="line"
+         id="tspan5791"
+         style="fill:#808080;stroke:none;stroke-width:0.5"
+         x="223.00784"
+         y="120.57671">DDI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       x="252.25829"
+       y="120.41637"
+       id="text5793-7"><tspan
+         sodipodi:role="line"
+         id="tspan5791-6"
+         style="fill:#808080;stroke:none;stroke-width:0.5"
+         x="252.25829"
+         y="120.41637">MQTT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;font-family:'Liebherr Head Office';-inkscape-font-specification:'Liebherr Head Office';text-align:center;text-anchor:middle;fill:#808080;stroke:none;stroke-width:0.499999;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0"
+       x="279.99112"
+       y="120.54496"
+       id="text5793-73"><tspan
+         sodipodi:role="line"
+         id="tspan5791-65"
+         style="fill:#808080;stroke:none;stroke-width:0.5"
+         x="279.99112"
+         y="120.54496">stdin/stdout</tspan></text>
+  </g>
+</svg>
