@@ -12,6 +12,11 @@ rust-version = "1.92.0"
 build = "build.rs"
 description = "Updated SOTA Updater"
 license = "MIT"
+repository = "https://github.com/liebherr-group/updated"
+readme = "../README.md"
+authors = ["Thomas Witte <thomas.witte@liebherr.com>"]
+documentation = "https://docs.rs/libupdated/"
+categories = ["automotive", "embedded"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -12,6 +12,10 @@ description = "Updated SOTA Updater"
 rust-version = "1.92.0"
 repository = "https://github.com/liebherr-group/updated"
 license = "MIT"
+readme = "../README.md"
+authors = ["Thomas Witte <thomas.witte@liebherr.com>"]
+documentation = "https://docs.rs/updated/"
+categories = ["automotive", "embedded"]
 
 [lib]
 name = "updated_example"

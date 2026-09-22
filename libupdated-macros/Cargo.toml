@@ -10,6 +10,12 @@ version = "1.0.0"
 edition = "2024"
 rust-version = "1.92.0"
 license = "MIT"
+repository = "https://github.com/liebherr-group/updated"
+readme = "../README.md"
+description = "helper macros for libupdated"
+authors = ["Thomas Witte <thomas.witte@liebherr.com>"]
+documentation = "https://docs.rs/libupdated-macros/"
+categories = ["automotive", "embedded"]
 
 [lib]
 proc-macro = true
